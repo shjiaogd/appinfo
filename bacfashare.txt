@@ -1,1 +1,1 @@
-https://a.app.qq.com/o/simple.jsp?pkgname=com.xinke.tiemulator
+https://android.myapp.com/myapp/detail.htm?apkName=com.xinke.tiemulator
